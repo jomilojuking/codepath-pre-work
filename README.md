@@ -14,8 +14,13 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<div>
+    <a href="https://www.loom.com/share/9d81569db4344b48a952d35696d28aec">
+    </a>
+    <a href="https://www.loom.com/share/9d81569db4344b48a952d35696d28aec">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9d81569db4344b48a952d35696d28aec-1af8cce817c22ded-full-play.gif">
+    </a>
+  </div>
 
 
 
